@@ -1,0 +1,8 @@
+Package: MyFirstPackage
+Version: 1.1
+Author: Samira Jahanagiri
+Maintainer: Samira Jahanagiri <jahangiri@mail.usf.edu>
+License: USF + file LICENSE
+Title: R for Genomics
+Description: for those times you want to extract certain columns from a .fasta or .gff file
+URL: https://github.com/SamiraJahangiri
